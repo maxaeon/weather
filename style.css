@@ -1,0 +1,72 @@
+header {
+    background-color: darkblue;
+    text-align: center;
+    padding: 30px;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+}
+
+.searchCityHeader {
+    margin-top: 20px;
+    color:mediumblue;
+}
+
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: whitesmoke;
+    color: darkblue;
+}
+
+button {
+    color: white;
+    background-color: darkred;
+}
+
+.container {
+    margin-left: 10px;
+    padding-left: 10px;
+    min-width: 200px;
+}
+
+h3 {
+    margin: 10px;
+}
+
+input {
+    margin-left: 10px;
+}
+
+.five-day-forecast {
+    flex-direction: column;
+    color: darkblue;
+}
+
+.card {
+    margin: 10px;
+    min-width: 100px;
+}
+
+.dateHeader {
+    font-weight: bold;
+    font-size: 17px;
+    color: darkblue;
+    background-color: lightblue
+}
+
+.hide {
+    display: none;
+}
+
+.current-weather {
+    padding: 10px;
+    background-color: white;
+    color: darkred;
+    text-shadow: darkblue;
+}
+
+.fiveDayCard {
+    padding: 10px;
+    background-color: white;
+    color: darkblue;
+    background-color: lightblue;
+}
